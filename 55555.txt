@@ -1,0 +1,44 @@
+. List of useful resources for pentesters and hackers
+_• from SadgirlDarknet_
+
+
+•  Exploits Database:
+https://www.shodan.io/
+http://www.exploit-db.com
+http://packetstormsecurity.com
+
+•  Vulnerabilities Database:
+https://nvd.nist.gov/
+http://www.secdocs.org/
+https://cve.mitre.org/cve/
+http://www.cvedetails.com/
+https://www.kb.cert.org/vuls/
+http://lwn.net/Vulnerabilities/
+http://www.vulnerability-lab.com
+http://www.securityfocus.com/bid
+https://secunia.com/community/advisories/search/
+http://denimgroup.com/resources-threadfix/
+
+•  Hacking Tutorials:
+http://www.ehacking.net/
+http://www.securitytube.net/
+http://www.hacking-tutorial.com/
+https://www.offensive-security.com/
+http://breakthesecurity.cysecurity.org/
+http://www.spacerogue.net/wordpress/
+https://www.youtube.com/user/Hak5Darren
+https://www.youtube.com/user/sansinstitute
+https://vimeo.com/channels/fullscopesecurity
+http://www.kalitutorials.net/2013/08/kali-linux.html
+https://www.youtube.com/user/DEFCONConference
+https://en.wikibooks.org/wiki/Metasploit/VideoTutorials
+
+•  Virus Scan:
+http://fuckingscan.me/
+http://v2.scan.majyx.net/
+http://nodistribute.com/
+http://www.file2scan.net/
+http://anubis.iseclab.org/
+https://anonscanner.com/
+http://virusscan.jotti.org/it
+https://www.virustotal.com/nl/
